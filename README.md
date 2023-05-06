@@ -11,7 +11,7 @@ AstroMap en una aplicación web que permite a los usuarios generar un mapa de la
 
 ## ⚙️ Instrucciones de uso <a name = "usage"></a>
 
-1.- Acceder a la página web de AstroMap en el siguiente enlace: Muy pronto!
+1.- Acceder a la página web de AstroMap en el siguiente enlace: [AstroMap](https://astromap.app)
 
 2.- Registrate en nuestra web.
 
