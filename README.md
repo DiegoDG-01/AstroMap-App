@@ -7,19 +7,19 @@
 
 ## 🌐 Sobre AstroMap <a name = "about"></a>
 
-AstroMap en una aplicación web que permite a los usuarios generar un mapa de las constelaciones que se pueden observar en el cielo en un momento dado. El usuario puede seleccionar la fecha y hora en la que desea observar el cielo y la aplicación le mostrará un mapa con las constelaciones.
+AstroMap es una aplicación web que ofrece una mayor gama de recursos y herramientas relacionados con la astronomía. Ahora no solo te permite generar mapas de constelaciones para observar el cielo, sino que también te brinda acceso a información fascinante y actualizaciones relacionadas con el universo. Puedes explorar todo lo que AstroMap tiene para ofrecer visitando nuestra página web: [AstroMap - Un viaje a través del universo](https://astromap.app/).
 
-## ⚙️ Instrucciones de uso <a name = "usage"></a>
+## 🚀 Funciones Destacadas <a name = "usage"></a>
 
-1.- Acceder a la página web de AstroMap en el siguiente enlace: [AstroMap](https://astromap.app)
+- Foto del día (NASA - APOD): Explora la imagen astronómica más impresionante y educativa del día, seleccionada por la NASA.
 
-2.- Registrate en nuestra web.
+- Seguimiento en tiempo real de Satélites en órbita baja: Mantente al tanto de la ubicación y trayectoria de satélites en órbita baja en tiempo real.
 
-3.- Iniciar sesión con el usuario creado.
+- Generación de mapas estelares: Crea mapas detallados de constelaciones y estrellas visibles en el cielo en cualquier momento y lugar.
 
-4.- Seleccionar la fecha, hora y ubicación en la que se desea observar el cielo.
-
-5.- Listo! 🤓 Se mostrará un mapa con las estrellas que se pueden observar en el cielo en el momento.
+- Álbum de mapas creados: Guarda y organiza tus mapas estelares generados para futuras referencias.
+  
+- Funciones Futuras en Desarrollo: Estamos en constante evolución, trabajando en emocionantes características adicionales para enriquecer tu experiencia astronómica.
 
 ## 🤓 Contacto <a name = "contact"></a>
 
